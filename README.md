@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ductrong5x5&label=Profile%20views&color=0e75b6&style=flat" alt="ductrong5x5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ductrong5x5" alt="ductrong5x5" /></a> </p>
-
 - 📫 How to reach me **dncswork@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf) 
+- 📄 Know about my experiences [https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf](https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
