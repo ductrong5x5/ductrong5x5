@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ductrong5x5" alt="ductrong5x5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **dncswork@gmail.com**
 
 - 📄 Know about my experiences [https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf](https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf)
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ductrong5x5&show_icons=true&locale=en&layout=compact" alt="ductrong5x5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductrong5x5&show_icons=true&locale=en" alt="ductrong5x5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ductrong5x5&" alt="ductrong5x5" /></p>
