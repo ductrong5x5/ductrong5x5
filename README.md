@@ -6,6 +6,7 @@
 - 📫 How to reach me **dncswork@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://ductrong5x5.github.io/html-portfolio/files/Duc%20Nguyen-%20Resume.pdf)
+- 📄 Get my Transcript [My Transcript](https://ductrong5x5.github.io/html-portfolio/files/Academic%20Transcript.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
